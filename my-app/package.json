@@ -27,7 +27,7 @@
     "hammerjs": "^2.0.8",
     "font-awesome": "4.7.0",
     "popper.js": "^1.14.5",
-    "jquery": "^3.3.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.13.0",
